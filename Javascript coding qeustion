@@ -2,7 +2,7 @@
 
 2- How to check if and object is an array or not? Provide some code.
 
-3- How to empty an array in JavaScript?
+3- How to empty an array in JavaScript?do not reset it to a new array, and do not loop through to pop each value
 
 4- How would you check if a number is an integer?
 
