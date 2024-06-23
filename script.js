@@ -9,6 +9,8 @@
 // console.log(savedStrArray.join(" "));
 
 
+
+
 //  Question no:- 2- How to check if an object is an array or not? Provide some code.
 
 // function cheackArray(elem){
@@ -17,7 +19,23 @@
 // console.log(cheackArray([]));
 // console.log(cheackArray({}));
 
+
+
 //  Question no:- 3- How to empty an array in JavaScript? do not reset it to a new array, and do not loop through to pop each value
 
 // var arr = [1, 2, 3, 4, 5, 6,]
 // arr.length = 0;
+
+
+
+//Question :- 4- How would you check if a number is an integer?
+
+var a = 12;
+
+if(a % 1 === 0){
+ console.log("integer")
+}
+else{
+  console.log("Not integer ")
+}
+

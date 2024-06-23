@@ -7,4 +7,4 @@
 4- How would you check if a number is an integer?
 
 5- Make this work :
-duplicate([1, 2, 3, 4, 5]); // [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]
+duplicate([1, 2, 3, 4, 5]); // [1, 2, 3, 4, 5, 1, 2, 3, 4, 5];
